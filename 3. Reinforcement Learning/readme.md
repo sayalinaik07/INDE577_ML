@@ -23,7 +23,7 @@ In Maze Game, the agent is a little blue dot that moves around the maze, and its
 We can represent the maze as a grid, where each cell in the grid represents a state, and the possible actions are moving up, down, left or right. At each time step, the agent observes the current state and takes an action, which transitions it to a new state and gives it a reward based on the new state. The goal of the agent is to learn a policy that maximizes its expected cumulative reward over time.
 
 
+## Output
 
-
-
+![Alt Text](/images/maze.gif)
 
