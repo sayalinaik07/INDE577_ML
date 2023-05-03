@@ -1,6 +1,6 @@
 # Supervised Learning
 
-![Alt Text](./images/supervised.JPG)
+![Alt Text](/images/supervised.JPG)
 
 ## 1. Classification 
 
