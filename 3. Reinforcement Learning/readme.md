@@ -2,7 +2,7 @@
 
 ![Alt Text](/images/rl.jpg)
 
-Reinforcement learning (RL) is a type of machine learning approach in which an agent learns to behave in an environment by performing certain actions and receiving rewards or penalties based on the outcome of those actions. The goal of RL is to learn a policy that maximizes the total expected reward obtained over a sequence of actions taken by the agent.
+Reinforcement learning (RL) is a type of machine learning in which an agent learns to behave in an environment by performing certain actions and receiving rewards or penalties based on the outcome of those actions. The goal of RL is to learn a policy that maximizes the total expected reward obtained over a sequence of actions taken by the agent.
 
 In reinforcement learning, the agent interacts with the environment by taking actions, which can lead to changes in the state of the environment and result in receiving feedback in the form of rewards or penalties. The agent uses this feedback to learn which actions are beneficial and which actions should be avoided in order to achieve the desired objective.
 
