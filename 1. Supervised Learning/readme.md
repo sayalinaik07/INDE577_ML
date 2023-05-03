@@ -20,6 +20,31 @@ The goal of the classification problem using KDD99 dataset is to accurately clas
 
 - Logistic Regression </br>
 - Support Vector Machines </br>
-- K-Nearest Neighbors
-- Gaussian Naive Bayes
-- Tensorflow Fully Connected Neural Networks
+- K-Nearest Neighbors </br>
+- Gaussian Naive Bayes </br>
+- Tensorflow Fully Connected Neural Networks</br>
+
+
+## 2. Regression
+
+**Dataset** </br>
+
+https://www.kaggle.com/datasets/javagarm/fifa-19-complete-player-dataset </br>
+
+FIFA19 dataset is a collection of data related to soccer players and teams in the FIFA 19 video game. It includes a comprehensive set of player attributes, such as skill ratings, physical traits, preferred positions, and more, as well as team and league data.
+
+The dataset consists of two CSV files: "players_19.csv" and "teams_and_leagues.csv". The "players_19.csv" file contains information on individual players, such as their age, nationality, preferred foot, overall rating, potential rating, and more. The "teams_and_leagues.csv" file contains information on the teams and leagues in the game, such as team name, league, and team overall rating.
+
+This dataset can be used for various purposes such as analyzing player performance, building machine learning models to predict player ratings, or exploring team dynamics and strategy. It is a useful resource for sports analysts, game developers, and soccer enthusiasts.
+
+The goal of the regression problem using FIFA 19 dataset is to predict the overall value of a player.
+
+**Models used**
+
+- Linear Regression
+- Logistic Regression
+- K-Neighbors
+- Random Forest
+- Support Vector Machines
+
+
