@@ -11,15 +11,15 @@ Repo to host the projects completed in INDE577 - Sayali Ani Naik
 
 ## Contents of the repository
 
-#### 1. Supervised Learning
+#### [1. Supervised Learning](1.%20Supervised%20Learning)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Classification](./1.%20Supervised%20Learning/Classification)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Regression](./1.%20Supervised%20Learning/Regression)</br>
 
-#### 2. Unsupervised Learning
+#### [2. Unsupervised Learning](2.%20Unsupervised%20Learning)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PCA and K-Means](./2.%20Unsupervised%20Learning)</br>
 
-#### 3. Reinforcement Learning
+#### [3. Reinforcement Learning](3.%20Reinforcement%20Learning)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reinforcement Learning](./3.%20Reinforcement%20Learning)</br>
 
 #### Datasets
